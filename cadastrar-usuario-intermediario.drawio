@@ -1,0 +1,24 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="hbJHWayFEEuQpoFutUaO">
+    <mxGraphModel dx="1414" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GDkelY5mUvIb7Q37D2An-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cadastrar&lt;br&gt;usuário" vertex="1">
+          <mxGeometry height="90" width="90" x="310" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="GDkelY5mUvIb7Q37D2An-4" edge="1" parent="1" source="GDkelY5mUvIb7Q37D2An-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GDkelY5mUvIb7Q37D2An-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GDkelY5mUvIb7Q37D2An-5" connectable="0" parent="GDkelY5mUvIb7Q37D2An-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="matricula&lt;br&gt;senha&lt;br&gt;email&lt;br&gt;celular" vertex="1">
+          <mxGeometry relative="1" x="-0.4667" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GDkelY5mUvIb7Q37D2An-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="usuário" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
