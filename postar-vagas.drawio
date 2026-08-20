@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="AlA5KsONRfIowpkjG0Eq">
+    <mxGraphModel dx="1414" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3YDn4aUm_THgpG0frFbv-10" edge="1" parent="1" source="3YDn4aUm_THgpG0frFbv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="3YDn4aUm_THgpG0frFbv-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="520" />
+              <mxPoint x="200" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-11" connectable="0" parent="3YDn4aUm_THgpG0frFbv-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nome da vaga&lt;br&gt;nome da empresa&lt;br&gt;descrição da vaga&lt;br&gt;formação&lt;br&gt;habilidades&lt;br&gt;competências requeridas&lt;br&gt;competências complementares&lt;div&gt;tipo de vaga&lt;/div&gt;&lt;div&gt;matricula do aluno&lt;br&gt;data da postagem&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1568" y="1" as="geometry">
+            <mxPoint x="20" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="postar vagas" vertex="1">
+          <mxGeometry height="80" width="90" x="370" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-5" edge="1" parent="1" source="3YDn4aUm_THgpG0frFbv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="3YDn4aUm_THgpG0frFbv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-6" connectable="0" parent="3YDn4aUm_THgpG0frFbv-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="matricula" vertex="1">
+          <mxGeometry relative="1" x="-0.403" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="usuário" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-12" edge="1" parent="1" source="3YDn4aUm_THgpG0frFbv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3YDn4aUm_THgpG0frFbv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-13" connectable="0" parent="3YDn4aUm_THgpG0frFbv-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="código da vaga" vertex="1">
+          <mxGeometry relative="1" x="-0.0312" y="-3" as="geometry">
+            <mxPoint x="5" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="vagas" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="curso de aluno" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-8" edge="1" parent="1" source="3YDn4aUm_THgpG0frFbv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.967;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="3YDn4aUm_THgpG0frFbv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3YDn4aUm_THgpG0frFbv-9" connectable="0" parent="3YDn4aUm_THgpG0frFbv-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="lista de nomes" vertex="1">
+          <mxGeometry relative="1" x="-0.2918" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
