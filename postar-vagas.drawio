@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3YDn4aUm_THgpG0frFbv-11" connectable="0" parent="3YDn4aUm_THgpG0frFbv-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nome da vaga&lt;br&gt;nome da empresa&lt;br&gt;descrição da vaga&lt;br&gt;formação&lt;br&gt;habilidades&lt;br&gt;competências requeridas&lt;br&gt;competências complementares&lt;div&gt;tipo de vaga&lt;/div&gt;&lt;div&gt;matricula do aluno&lt;br&gt;data da postagem&lt;/div&gt;" vertex="1">
+        <mxCell id="3YDn4aUm_THgpG0frFbv-11" connectable="0" parent="3YDn4aUm_THgpG0frFbv-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nome da vaga&lt;br&gt;nome da empresa&lt;br&gt;descrição da vaga&lt;br&gt;formação&lt;br&gt;habilidades&lt;br&gt;competências requeridas&lt;br&gt;competências complementares&lt;div&gt;tipo de vaga&lt;/div&gt;&lt;div&gt;matricula do aluno&lt;br&gt;data da postagem&lt;/div&gt;&lt;div&gt;curso de aluno&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1568" y="1" as="geometry">
             <mxPoint x="20" y="-1" as="offset" />
           </mxGeometry>
